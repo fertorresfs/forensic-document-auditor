@@ -1,22 +1,3 @@
-## 📂 Estrutura do Repositório (Sugestão antes do README)
-Organize as pastas assim para parecer profissional:
-
-```
-/forensic-document-auditor
-│
-├── /assets          # Logos e prints dos resultados (Antes/Depois)
-├── /docs            # Laudos de exemplo (anonimizados) ou PDFs técnicos
-├── /src             # Código fonte (clean architecture)
-│   ├── analyzer.py
-│   ├── ela_utils.py
-│   └── metadata.py
-├── /notebooks       # Jupyter Notebooks para demo (Storytelling)
-├── requirements.txt
-├── Dockerfile       # (Obrigatório para vaga de MLE/DevOps)
-└── README.md
-```
-
-Markdown
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D3DAQGkkIzuYTx0zw/image-scale_127_750/B4DZu_V4VqJwAM-/0/1768441746516/torres_ferreira_zerbini_cover?e=1770598800&v=beta&t=4vLqaCytsPj9vU-pQonrV2rTOdlVvoSBQn6K5WdtGI0" alt="TFZ Intelligence Logo" width="550">
   <h1>Forensic Document Auditor (FDA)</h1>
@@ -38,6 +19,22 @@ Markdown
 </div>
 
 ---
+## 📂 Estrutura do Repositório
+
+```
+/forensic-document-auditor
+│
+├── /assets          # Logos e prints dos resultados (Antes/Depois)
+├── /docs            # Laudos de exemplo (anonimizados) ou PDFs técnicos
+├── /src             # Código fonte (clean architecture)
+│   ├── analyzer.py
+│   ├── ela_utils.py
+│   └── metadata.py
+├── /notebooks       # Jupyter Notebooks para demo (Storytelling)
+├── requirements.txt
+├── Dockerfile       # (Obrigatório para vaga de MLE/DevOps)
+└── README.md
+```
 
 ## 🛡️ About The Project
 
@@ -131,12 +128,3 @@ Auditability: Every analysis generates a hash-verified log, ensuring Chain of Cu
 Fernando Torres Founder @ TFZ Intelligence | Forensic Data Scientist | MSc Candidate at USP
 
 <a href="https://www.linkedin.com/in/fertorresfs/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin"> </a>
-
-
-### 🧠 Instruções Finais do Consultor:
-
-1.  **Imagens (Assets):** Você **precisa** colocar imagens na pasta `/assets`. Sem o print do "Antes" (Documento normal) e "Depois" (Mapa de calor ELA ou Print do Hex Editor), o projeto perde 80% da força. Crie uma fraude falsa agora no Photoshop/Canva e rode um algoritmo de ELA online se ainda não tiver o seu pronto, só para gerar o print.
-2.  **Badge "Forensics Level 4":** Eu criei essa badge customizada no código. Ela valida seu discurso de vendas.
-3.  **Código Real:** Se você ainda não tem o código python robusto, suba pelo menos o script básico de `ELA` e `Metadata extraction`. Melhor um código simples que funciona do que um repo vazio.
-
-Vá subir isso agora. Esse é o link que você vai mandar para a **Incognia**.
