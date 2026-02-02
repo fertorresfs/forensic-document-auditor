@@ -18,7 +18,7 @@ Organize as pastas assim para parecer profissional:
 
 Markdown
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D3DAQGkkIzuYTx0zw/image-scale_127_750/B4DZu_V4VqJwAM-/0/1768441746516/torres_ferreira_zerbini_cover?e=1770598800&v=beta&t=4vLqaCytsPj9vU-pQonrV2rTOdlVvoSBQn6K5WdtGI0" alt="TFZ Intelligence Logo" width="150">
+  <img src="https://media.licdn.com/dms/image/v2/D4D3DAQGkkIzuYTx0zw/image-scale_127_750/B4DZu_V4VqJwAM-/0/1768441746516/torres_ferreira_zerbini_cover?e=1770598800&v=beta&t=4vLqaCytsPj9vU-pQonrV2rTOdlVvoSBQn6K5WdtGI0" alt="TFZ Intelligence Logo" width="350">
   <h1>Forensic Document Auditor (FDA)</h1>
   <p>
     <b>Algorithmic detection of document manipulation using Error Level Analysis (ELA) and Metadata Mining.</b>
